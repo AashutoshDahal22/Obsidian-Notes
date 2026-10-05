@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "22d325d59b43b38d",
+        "id": "5cb5bc2bb05cdc0f",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2adc1334dea8fa",
+            "id": "87ef531b34f578cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Git Commands.md",
-                "mode": "preview",
+                "file": "Dailies/2026-10-05.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Git Commands"
+              "title": "2026-10-05"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "fa8a0f7fb06f4609",
+            "id": "d25b8dc1967f3b69",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b8bbbf6af60b9343",
@@ -180,47 +183,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4e2adc1334dea8fa",
+  "active": "87ef531b34f578cf",
   "lastOpenFiles": [
+    "Dailies/2026-10-04.md",
+    "Dailies/2026-10-05.md",
     "Welcome.md",
-    "Programming Principles.md",
-    "Projects/Projects Status.md",
-    "Useful Git Commands.md",
-    "Projects/TutionTracker.md",
-    "Projects/Porfolio.md",
-    "Projects/Medisys.md",
-    "Untitled.canvas",
-    "Aricalot/TestCases.md",
-    "Projects/WorkMatch.md",
-    "Business Ideas.md",
-    "Untitled",
-    "DSA/Introduction to DSA.md",
-    "DSA/C++.md",
+    "Dailies",
+    "Templates/Project Notes.md",
+    "Projects/Project Ideas.md",
+    "Onboarding-Schema.png",
+    "Personal/Expense.md",
+    "Projects/Projects.md",
+    "Personal/Personal.md",
+    "Medisys/Medisys.md",
+    "Medisys/Documentations/Software Architecture Documentation.md",
+    "Pasted image 20260914223318.png",
+    "Medisys/Documentations",
+    "Untitled.md",
+    "Medisys",
+    "Group Names.md",
+    "Personal/Script.md",
+    "Personal/Things to Learn.md",
+    "Projects/Portfolio.md",
+    "Day 9 - Serializer Validation & Generic Views.md",
+    "Projects/Legal RAG.md",
+    "Projects/Pasted image 20260728201305.png",
+    "Projects/Pasted image 20260728202338.png",
+    "Django Course/Class 7 - Authentication & Authorization.md",
+    "Django Course/Day 6 - Django Admin, CRUD & Advanced ORM.md",
+    "Django Course/Day 5 - Django Forms & Form Validation.md",
+    "Django Course/Day 4 - Models,Database and Django ORM.md",
+    "Django Course/Day 3 - Template, Template Language and Static Files.md",
+    "Django Course/Day 2 - URL Routing, Views & HTTP Requests.md",
+    "Django Course/Day 1 - Introduction to Django.md",
+    "Django Course/Group and Names.md",
+    "Personal/Meal Plan.md",
+    "Django Course/Images/Pasted image 20260802063902.png",
+    "Django Course/Images/Pasted image 20260802074515.png",
+    "Django Course/Images",
+    "Django Course",
+    "Django Course/Images/Pasted image 20260802065212.png",
+    "Excalidraw",
     "Untitled.base",
-    "Daily/Daily Notes.md",
-    "Projects/OrderFlow.md",
-    "OrderFlow.md",
-    "Youtube/Youtube.md",
-    "Daily/2026-03-23.md",
-    "Daily.md",
+    "Templates",
+    "Personal/Journal",
+    "Dailies",
+    "Pasted image 20260709172044.png",
+    "DSA/images/Pasted image 20260531181000.png",
     "DSA/images/Pasted image 20260330071240.png",
-    "DSA/images/Pasted image 20260330070219.png",
-    "DSA/images",
-    "DSA/images/Pasted image 20260330070845.png",
-    "DSA/images/Pasted image 20260330070843.png",
-    "DSA",
-    "Daily/2026-03-26.md",
-    "DSA.md",
-    "Projects",
-    "DSA/DSA.md",
-    "DSA/Notes.md",
-    "Daily/Untitled.canvas",
-    "Daily",
-    "DSA",
-    "Youtube",
-    "Aricalot"
+    "Untitled.canvas",
+    "Daily/Untitled.canvas"
   ]
 }

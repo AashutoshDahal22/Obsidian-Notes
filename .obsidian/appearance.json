@@ -4,7 +4,8 @@
   "showRibbon": true,
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 16,
+  "baseFontSize": 24,
   "baseFontSizeAction": true,
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "theme": "system"
 }
